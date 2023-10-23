@@ -1,0 +1,1 @@
+@echo offstart webserver.exestart "" "index.html"exit
