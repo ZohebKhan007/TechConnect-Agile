@@ -5,6 +5,6 @@ This website was developed for TechConnect utilizing the Agile Methodology. It i
 This website is developed by "StarBoyzz"
 
 Scrum Master: Nikhil Patel\
-Designer: Levi Maiava\
+Designer: Xion Punga\
 Developers: Max Fairfield & Zoheb Khan\
-Testers: Xion Punga & Vaeden Guttenbiel
+Testers: Levi Maiava & Vaeden Guttenbiel
